@@ -8,6 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...web pages
 - 🌱 I’m currently learning ...java,python
 - 💬 Ask me about ...i am ready to help
-- 📫 How to reach me: ...bus,train
 - ⚡ Fun fact: ...i am very punctual
 
